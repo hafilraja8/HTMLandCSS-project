@@ -1,21 +1,29 @@
-.one{
-    background-color: black;
-    height:200px;
-    width:200px;
-    display:inline-block;
+*{
+    margin:0%;
+    padding:0%;
 }
-.two{
-   background-color:red;
-   height:200px;
-   width:200px;
-   display:inline-block;
+nav{
+    background-color: black;
+    color:white;
+    padding:10px;
 
 }
-.three{
-    background-color:yellow;
-    display:inline;   
+h1,ul,li{
+    display:inline;
 }
-.four{
-    background-color:red;
-    display: inline;
+ul{
+    margin-left: 60%;
+    color:grey;
+}
+li:hover{
+    color:white;
+    cursor: pointer;
+}
+.two{
+    text-align: center;
+    padding: 20px;
+}
+input{
+    width: 60%;
+    padding: 10px;
 }
