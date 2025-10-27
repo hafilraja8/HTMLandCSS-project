@@ -44,3 +44,19 @@ input{
 .three{
     text-align: center;
 }
+.box:hover{
+    color:grey;
+    cursor: pointer;
+}
+.four{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.five{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.v{
+    padding: 20px;
+}
